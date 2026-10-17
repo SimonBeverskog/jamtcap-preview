@@ -1,2 +1,3 @@
+# Read the page-level noindex directive.
 User-agent: *
-Disallow: /
+Disallow:
